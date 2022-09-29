@@ -1,0 +1,22 @@
+.item{
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+}
+.item-title{
+    border-bottom:solid 3px;
+}
+.header {
+    background-color: rgb(92, 53, 3);
+    color: white;
+}
+h5{
+    width: fit-content;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.comment{
+    border-bottom: solid 2px;
+}
